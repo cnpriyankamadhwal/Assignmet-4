@@ -1,0 +1,154 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: math;
+}
+
+/* HEADER */
+.heading {
+    color: black;
+    background-color: #d0a14c;
+    text-align: center;
+    padding: 30px;
+}
+
+.heading h1 {
+    margin-bottom: 10px;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: rgb(241, 163, 19);
+    text-align: center;
+}
+
+.navbar ul li {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+/* INTRO */
+.intro {
+    margin: 30px 40px;
+}
+.intro-content h2{
+    margin-bottom: 20px;
+}
+
+.intro-content {
+    margin-bottom: 20PX;
+}
+
+img {
+    height: 220px;
+    width: 320px;
+}
+
+.img {
+    margin: 10px 10px;
+}
+
+/* ABOUT US */
+.about-us {
+    margin: 30px 40px;
+}
+.about-us h2{
+    margin-bottom: 20px;
+}
+/* OUR MENU */
+.our-menu{
+    margin: 30px 40px;
+}
+.our-menu h2{
+    margin-bottom: 20px;
+}
+.menu ul{
+    margin-left: 30px;
+}
+/* GALLERY */
+.gallery h2{
+     margin:30px 40px ;
+}
+.image img{ 
+height:380px;
+width:350px;
+margin-left: 30px;
+}
+
+.pic img{   
+    height: 380px;
+    width: 335px;
+    margin-left: 30px;
+}
+
+.img img{
+    height: 380px;
+    width: 335px;
+    margin-left: 30px;
+}
+.img{
+    display: inline-block;
+}
+
+.pic{
+    display: inline-block;
+}
+
+.image{
+    display: inline-block;
+}
+
+/* SPECIAL OFFERS*/
+
+.special {
+    margin: 30px 40px;
+}
+.offers{
+    margin-left: 60px;
+}
+.special h2{
+    margin-bottom: 10px;
+}
+/* CONTACT US */
+
+.contact{
+    margin: 30px 40px;
+}
+.contact h2{
+    margin-bottom: 10px;
+}
+
+.contact-container{
+margin-left: 60px;
+}
+/* place your order */
+.place-order{
+    margin: 30px 40px;
+}
+.order{
+    margin-bottom: 20px;
+}
+.order-container label{
+    display: block;
+}
+.quantity-container label{
+    display: block;
+}
+.order-container{
+    margin-bottom: 10px;
+}
+
+.quantity-container{
+    margin-bottom: 10px;
+}
+/* FOOTER */
+footer{
+    color: black;
+    background-color:orangered;
+    padding: 40px;
+    text-align: center;
+}
+
