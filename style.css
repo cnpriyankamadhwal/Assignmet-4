@@ -34,7 +34,8 @@
 .intro {
     margin: 30px 40px;
 }
-.intro-content h2{
+
+.intro-content h2 {
     margin-bottom: 20px;
 }
 
@@ -42,62 +43,56 @@
     margin-bottom: 20PX;
 }
 
-img {
-    height: 220px;
-    width: 320px;
-}
-
-.img {
-    margin: 10px 10px;
+.images {
+    margin-left: 50px;
 }
 
 /* ABOUT US */
 .about-us {
     margin: 30px 40px;
 }
-.about-us h2{
+
+.about-us h2 {
     margin-bottom: 20px;
 }
+
 /* OUR MENU */
-.our-menu{
+.our-menu {
     margin: 30px 40px;
 }
-.our-menu h2{
+
+.our-menu h2 {
     margin-bottom: 20px;
 }
-.menu ul{
+
+.menu ul {
     margin-left: 30px;
 }
+
 /* GALLERY */
-.gallery h2{
-     margin:30px 40px ;
-}
-.image img{ 
-height:380px;
-width:350px;
-margin-left: 30px;
+.gallery h2 {
+    margin: 30px 40px;
 }
 
-.pic img{   
-    height: 380px;
-    width: 335px;
-    margin-left: 30px;
+
+.img img {
+    height: 500px;
+    width: 900px;
 }
 
-.img img{
-    height: 380px;
-    width: 335px;
-    margin-left: 30px;
-}
-.img{
+.img {
     display: inline-block;
 }
 
-.pic{
+#img-2 {
+    margin: 0 50px;
+}
+
+.pic {
     display: inline-block;
 }
 
-.image{
+.image {
     display: inline-block;
 }
 
@@ -106,49 +101,63 @@ margin-left: 30px;
 .special {
     margin: 30px 40px;
 }
-.offers{
+
+.offers {
     margin-left: 60px;
 }
-.special h2{
+
+.special h2 {
     margin-bottom: 10px;
 }
+
 /* CONTACT US */
 
-.contact{
+.contact {
     margin: 30px 40px;
 }
-.contact h2{
+
+.contact h2 {
     margin-bottom: 10px;
 }
 
-.contact-container{
-margin-left: 60px;
+.contact-container {
+    margin-left: 60px;
 }
+
 /* place your order */
-.place-order{
+.place-order {
     margin: 30px 40px;
 }
-.order{
+
+.order {
     margin-bottom: 20px;
 }
-.order-container label{
+
+.order-container label {
     display: block;
 }
-.quantity-container label{
+
+.quantity-container label {
     display: block;
 }
-.order-container{
+
+.order-container {
     margin-bottom: 10px;
 }
 
-.quantity-container{
+.quantity-container {
     margin-bottom: 10px;
 }
+
+button {
+    padding: 4px;
+    cursor: pointer;
+}
+
 /* FOOTER */
-footer{
+footer {
     color: black;
-    background-color:orangered;
+    background-color: orangered;
     padding: 40px;
     text-align: center;
 }
-
